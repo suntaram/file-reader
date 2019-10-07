@@ -10,6 +10,6 @@ Required Softwares
   
   com.csvreader.CSVItemReaderTest 
   
-  change the input full file path in the fileconstant file and change the output folder path in fileconstant file
+  change the input full file path in the app.properties file and change the output folder path in app.properties file
    
   
