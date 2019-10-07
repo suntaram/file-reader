@@ -4,7 +4,10 @@ Required Softwares
   
   How to execute application
   
-   com.filereader.DataReaderApplication Arg1 - input full file path Arg2 - output folder path
+  run the below file
+   com.filereader.DataReaderApplication 
+   
+   change the input full file path in the app.properties file and change the output folder path in app.properties file
    
   How to execute TestCases
   
